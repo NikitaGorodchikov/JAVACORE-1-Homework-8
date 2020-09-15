@@ -1,0 +1,1 @@
+{"id":"39e140d1-9b25-4e70-ade2-10b7e59e03ad","name":"Семен","surname":"Михайлов","birthday":"1982-01-16","healthInfo":{"normalTemperature":36.6,"bloodPressure":{"high":125,"low":78}}}
